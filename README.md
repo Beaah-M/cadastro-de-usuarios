@@ -2,7 +2,7 @@
 
 Este projeto é a interface web de um sistema de cadastro de usuários, desenvolvido com **React**, **Tailwind CSS** e outras ferramentas modernas. A aplicação permite visualizar, cadastrar e editar usuários de forma intuitiva e responsiva.
 
-- 📡 Acesse também o repositório da [API (Back-end)](https://github.com/Beaah-M/api-cadastro-usuarios)
+- 📡 Acesse também o repositório da [API (Back-end)](https://github.com/Beaah-M/api-usuarios)
 - 🌐 Acesse o projeto online: [https://frontend-cadastro-usuarios.vercel.app](https://frontend-cadastro-usuarios.vercel.app)
 
 ## ⚙️ Funcionalidades
