@@ -40,7 +40,7 @@ export default function App() {
       console.error("Erro ao buscar usuários:", error);
     }
   }, [filter]);
-console.log("Usuarios recebidos:", users);
+
 
 
   const cadastrarUsuario = async (usuario) => {
